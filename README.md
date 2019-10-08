@@ -1,3 +1,11 @@
+THIS PROJECT IS NO LONGER MAINTAINED.
+=====================================
+Additionally, it is not in a working condition.
+
+I have decided to not further develop this library as it works very similar to the original Freematics library listed under "About".
+
+Feel free to check out my fork of the Freematics library, which supports adding additional INIT commands, here: https://github.com/fust/ArduinoOBD.
+
 ELM327 library
 ==============
 
